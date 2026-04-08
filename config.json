@@ -1,0 +1,11 @@
+{
+    "target_url": "https://chatnekograf.vercel.app",
+    "target_ip": "127.0.0.1",
+    "port": 80,
+    "attack_method": "http_flood",
+    "threads": 500,
+    "use_proxy": false,
+    "duration_seconds": 60,
+    "slowloris_sockets": 200,
+    "wordpress_threads": 10
+}
